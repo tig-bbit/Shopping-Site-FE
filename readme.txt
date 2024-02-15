@@ -1,1 +1,1 @@
-It's and one page online shopping site only front end.
+It is a one page online shopping store for purchasing goods and adding to carts etc
