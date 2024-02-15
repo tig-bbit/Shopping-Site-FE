@@ -1,1 +1,1 @@
-It is a one page online shopping store for adding to carts and purchasing goods etc
+It is a one page online shopping store for adding to carts and purchasing goods etc.
